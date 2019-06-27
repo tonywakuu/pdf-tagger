@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+nltk = "*"
+PyPDF2 = "*"
+chardet = "==3.0.4"
+python-docx = "*"
+tkinter = "*"
+csv = "*"
+textract = "*"
+pocketsphinx = "*"
+pdfminer = "*"
+io = "*"
+cstringio = "*"
+stringio = "*"
+pywin32 = "*"
+pypiwin32 = "*"
+pyinstaller = "*"
+
+[requires]
+python_version = "3.6.3"
